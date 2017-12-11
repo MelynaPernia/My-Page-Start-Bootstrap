@@ -347,3 +347,14 @@ footer div{
   padding: 10px 0px;
   text-align: center;
 }
+
+/* -------------List desplegable------------- */
+/*.display-list{
+  display: none!important;
+}*/
+
+.list-desplegable {
+  color: var(--white);
+  margin-top: 0;
+
+}
